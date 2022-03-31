@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "6X+SUO6I0d7UwWHlnWneVlN9OxTxhl3TIX9QQqg5Cso=",
+  "Source": "dotnet_hero",
+  "BasePath": "_content/dotnet_hero",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dotnet_hero/wwwroot",
+      "Source": "dotnet_hero",
+      "ContentRoot": "/Users/phakhinai/Desktop/dotnet_hero/wwwroot/",
+      "BasePath": "_content/dotnet_hero",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/phakhinai/Desktop/dotnet_hero/wwwroot/images/60f5102c-61d4-4476-b9ed-3b5b8f3d7fa0.jpeg",
+      "SourceId": "dotnet_hero",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/phakhinai/Desktop/dotnet_hero/wwwroot/",
+      "BasePath": "_content/dotnet_hero",
+      "RelativePath": "images/60f5102c-61d4-4476-b9ed-3b5b8f3d7fa0.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/60f5102c-61d4-4476-b9ed-3b5b8f3d7fa0.jpeg"
+    },
+    {
+      "Identity": "/Users/phakhinai/Desktop/dotnet_hero/wwwroot/images/80f97ad4-ccc8-4b13-b4da-73e056fa150b.jpeg",
+      "SourceId": "dotnet_hero",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/phakhinai/Desktop/dotnet_hero/wwwroot/",
+      "BasePath": "_content/dotnet_hero",
+      "RelativePath": "images/80f97ad4-ccc8-4b13-b4da-73e056fa150b.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/80f97ad4-ccc8-4b13-b4da-73e056fa150b.jpeg"
+    },
+    {
+      "Identity": "/Users/phakhinai/Desktop/dotnet_hero/wwwroot/images/bf2c1438-412e-4135-9e0f-2bbfa138186a.jpeg",
+      "SourceId": "dotnet_hero",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/phakhinai/Desktop/dotnet_hero/wwwroot/",
+      "BasePath": "_content/dotnet_hero",
+      "RelativePath": "images/bf2c1438-412e-4135-9e0f-2bbfa138186a.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/bf2c1438-412e-4135-9e0f-2bbfa138186a.jpeg"
+    }
+  ]
+}
